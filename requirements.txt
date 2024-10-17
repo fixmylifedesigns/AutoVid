@@ -1,0 +1,8 @@
+# requirements.txt
+
+PyQt6==6.4.0
+moviepy==1.0.3
+Jinja2==3.1.2
+selenium==4.1.0
+webdriver-manager==3.5.2
+Pillow==9.3.0

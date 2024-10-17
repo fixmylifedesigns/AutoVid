@@ -1,0 +1,40 @@
+{
+    "songs": [
+        "neon city",
+        "neon city",
+        "Neon City",
+        "Urban Illusion"
+    ],
+    "combinations": [
+        "Urara Miyake_neon city_1984",
+        "Megumi Matsumoto_neon city_1981",
+        "Momoka Ishibashi_Neon City_1981",
+        "Kira Sakurai_Urban Illusion_1986"
+    ],
+    "images": [
+        {
+            "song": "neon city",
+            "artist": "Urara Miyake",
+            "year": "1984",
+            "image": "FbdGkI8kSk2n4uhazi1-uA.png"
+        },
+        {
+            "song": "neon city",
+            "artist": "Megumi Matsumoto",
+            "year": "1981",
+            "image": "FbdGkI8kSk2n4uhazi1-uA.png"
+        },
+        {
+            "song": "Neon City",
+            "artist": "Momoka Ishibashi",
+            "year": "1981",
+            "image": "woman (6).jpeg"
+        },
+        {
+            "song": "Urban Illusion",
+            "artist": "Kira Sakurai",
+            "year": "1986",
+            "image": "woman (8).jpeg"
+        }
+    ]
+}
