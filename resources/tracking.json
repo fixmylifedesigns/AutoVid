@@ -3,13 +3,17 @@
         "neon city",
         "neon city",
         "Neon City",
+        "Urban Illusion",
+        "Neon City",
         "Urban Illusion"
     ],
     "combinations": [
         "Urara Miyake_neon city_1984",
         "Megumi Matsumoto_neon city_1981",
         "Momoka Ishibashi_Neon City_1981",
-        "Kira Sakurai_Urban Illusion_1986"
+        "Kira Sakurai_Urban Illusion_1986",
+        "Kaya Tsuda_Neon City_1978",
+        "Suzuka Murakami_Urban Illusion_1979"
     ],
     "images": [
         {
@@ -35,6 +39,18 @@
             "artist": "Kira Sakurai",
             "year": "1986",
             "image": "woman (8).jpeg"
+        },
+        {
+            "song": "Neon City",
+            "artist": "Kaya Tsuda",
+            "year": "1978",
+            "image": "woman (5).jpeg"
+        },
+        {
+            "song": "Urban Illusion",
+            "artist": "Suzuka Murakami",
+            "year": "1979",
+            "image": "woman (6).jpeg"
         }
     ]
 }

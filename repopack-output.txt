@@ -57,7 +57,7 @@ src/config/__init__.py
 src/config/settings.py
 src/core/__init__.py
 src/core/utils.py
-src/core/video_creator.py
+src/core/AutoVid.py
 src/main.py
 src/template/default.html
 src/ui/__init__.py
